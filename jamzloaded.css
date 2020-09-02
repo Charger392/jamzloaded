@@ -84,9 +84,9 @@ h1 {
 }
 .boxed {
     border: 1px solid #2196F3 ;
-    margin-right: 40px;
-    margin-left: 40px;
-    height: 830px;
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 840px;
     margin-bottom: 20px;
   }
   h2 {
